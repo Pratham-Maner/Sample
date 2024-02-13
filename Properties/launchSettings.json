@@ -1,0 +1,15 @@
+﻿{
+  "profiles": {
+    "DatabaseSynchServiceUsingWorkerService": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=LAPTOP-1O9GM127\\SQLEXPRESS;Database=DatabaseSynch;Trusted_Connection=True;TrustServerCertificate=True"
+  }
+}
